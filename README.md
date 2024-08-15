@@ -47,7 +47,7 @@ The Library Management System is designed to efficiently manage the operations a
 - **Return_date:** Date when the book was returned.
 - **Isbn_book2:** Foreign key referencing `ISBN` in the Books table, indicating the book that was returned.
 
-## Queries and Explanations
+
 
 ## Conclusion
 
